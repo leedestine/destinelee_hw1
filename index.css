@@ -1,0 +1,73 @@
+/* General body styling to create a clean, readable layout */
+body {
+    font-family: Georgia, serif;
+    font-size: 11pt;
+    background-color: #f9f9f9;
+    color: #404040;
+    margin: 0;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+
+/* Header styling for a welcoming feel with centered alignment */
+header {
+    font-family: verdana, sans-serif;
+    font-style: underline;
+    color:#A4A400
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 22pt;
+    font-style: bold;
+}
+
+/* Section styling to create clear separation between content blocks */
+section {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Article styling to differentiate storytelling sections */
+article {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-left: 4px solid #A4A400;
+    margin: 20px 0;
+}
+
+/* Footer styling with emphasis on accessibility by ensuring high contrast */
+footer {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Link styling to match the brand colors and improve visibility */
+a {
+    color: #A4A400;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* High contrast mode for visually impaired users, ensuring better readability */
+footer p {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+/* Comment 1: The body styling establishes a neutral base to enhance text readability with balanced padding and margins. */
+/* Comment 2: Header and footer colors are chosen to create brand consistency and ensure strong contrast for easy navigation. */
+/* Comment 3: Section and article styling separates content logically, improving the flow of information for all users. */
+/* Comment 4: The high contrast mode in the footer aids visually impaired users by enhancing text visibility against bright backgrounds. */

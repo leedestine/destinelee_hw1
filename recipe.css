@@ -1,0 +1,71 @@
+/* General body styling to maintain a clean and consistent look */
+body {
+    background-color: white;
+    color: #404040;
+    font-family: Georgia, Garamond, serif;
+    font-size: 11pt;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Styling for all headings to ensure consistency across the page */
+h1, h2 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Century Gothic", Futura, Verdana, sans-serif;
+    text-decoration: underline;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* Main heading with larger font size and center alignment to grab attention */
+h1 {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+/* Secondary headings with slightly smaller font size and left alignment */
+h2 {
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+}
+
+/* Styling all links to match the heading color for visual consistency */
+a {
+    color: #A4A400;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Formatting strong elements in recipe steps to emphasize key actions */
+strong {
+    font-weight: bold;
+}
+
+/* Blockquote styling for user quotes to create visual distinction */
+blockquote {
+    background-color: #FFFFC8;
+    font-style: italic;
+    margin: 15px;
+    padding: 10px;
+    border-left: 4px solid #A4A400;
+    text-indent: 20px;
+}
+
+/* Ensuring the pie image fits neatly and is visually appealing */
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #A4A400;
+}
+
+/* Footer styling for navigation links to maintain consistency */
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Comment 1: The headings are styled uniformly with matching colors and backgrounds to create a cohesive look, enhancing readability. */
+/* Comment 2: User quotes are highlighted with a soft yellow background and italicized font to differentiate them as testimonials, adding authenticity. */

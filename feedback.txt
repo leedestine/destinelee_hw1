@@ -1,0 +1,18 @@
+## Feedback and Reflections
+
+1. **Project Development Process:**
+   Working on this project helped me reinforce my understanding of semantic HTML tags and CSS styling. I focused on maintaining clean, well-structured code with proper use of elements like <header>, <footer>, <section>, and <article>, which improved both accessibility and readability.
+
+2. **Challenges Faced:**
+   One of the challenges was ensuring proper accessibility, especially for users with visual impairments. I implemented high-contrast text and background combinations to enhance readability. Another challenge was maintaining consistent styling across both pages without affecting the individual design elements.
+
+3. **Design Choices:**
+   I chose warm, inviting colors to reflect the homely feel of Granny's Pies. The fonts were selected to enhance readability while maintaining a traditional, comforting vibe. Headings were clearly defined, and navigation links were styled to stand out without overwhelming the content.
+
+4. **Improvements for the Future:**
+   For future projects, I would like to explore more advanced CSS features like CSS Grid and Flexbox for responsive layouts. Additionally, adding interactive elements like hover effects and simple JavaScript functions could enhance user engagement.
+
+5. **Accessibility Considerations:**
+   The high-contrast mode in the footer improves accessibility for visually impaired users. Alt attributes were used for images to ensure screen reader compatibility. These features ensure the website is user-friendly for a broader audience.
+
+Overall, this project provided valuable hands-on experience in structuring and styling web pages effectively.
